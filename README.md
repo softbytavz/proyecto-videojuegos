@@ -1,1 +1,3 @@
-# proyecto-videojuegos
+#proyecto-videojuegos
+
+Equipo 1
